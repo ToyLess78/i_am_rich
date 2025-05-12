@@ -11,7 +11,6 @@ void main() {
             'I Am Rich',
             style: TextStyle(
               color: Colors.white,
-              // 👈 змінює колір тексту
               fontSize: 24,
               fontWeight:
                   FontWeight.bold,
